@@ -1,3 +1,4 @@
+//comment for the sake of triggering
 import type { Config } from "tailwindcss";
 
 const config: Config = {
